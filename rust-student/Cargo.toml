@@ -1,0 +1,9 @@
+[package]
+name = "rust-student"
+version = "0.1.0"
+authors = ["amita <amita.yadav@knoldus.in>"]
+
+[dependencies]
+cdrs_helpers_derive = '*'
+cdrs = "2.0.0-beta.3"
+
